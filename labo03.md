@@ -23,4 +23,4 @@ repository Labo03.
 Pagina 4 van 5
 • Na het voltooien van alle taken editeer je Labo03.md en plaats je een kopie van
 alle bovenstaande tasks op voltooid door de markup te wijzigen van [ ] naar [x]. Geef
-een zinvolle commit message mee als je de wijzigingen commit.
+een zinvolle commit message mee als je de wijzigingen commit
