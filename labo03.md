@@ -1,9 +1,26 @@
-De Aarde (soms de wereld of Terra genoemd) is vanaf de Zon gerekend de derde planeet van ons zonnestelsel. Hierin behoort ze tot de naar haar genoemde "aardse planeten", waarvan ze zowel qua massa als qua volume de grootste is. Op de Aarde komt leven voor: ze is de woonplaats van miljoenen soorten organismen.[1] Of ze daarin alleen staat is onduidelijk, maar in de rest van het heelal zijn tot nog toe nergens sporen van leven, nu of in het verleden, gevonden. Radiometrische dateringen hebben uitgewezen dat de Aarde 4,57 miljard jaar geleden is ontstaan[2] en het leven maximaal 1 miljard jaar daarna.[3] Sinds het ontstaan van leven op Aarde heeft deze biosfeer de aardatmosfeer zuurstofrijk gemaakt, waardoor zich aerobe organismen konden ontwikkelen, en een ozonlaag kon ontstaan. Die beschermt het aardoppervlak tegen schadelijke ultravioletstraling, zodat leven op het land mogelijk is.[4]
-
-Het aardoppervlak is voor 71% bedekt met water in de vorm van zeeën en oceanen, de rest bestaat uit continenten en eilanden. Water is noodzakelijk voor het overleven van alle bekende levensvormen.
-
-De lithosfeer, de buitenste laag van de vaste Aarde, is verdeeld in een aantal rigide platen of schollen, die op een geologische tijdschaal (over miljoenen jaren) langzaam over het aardoppervlak bewegen. Deze beweging veroorzaakt de vorming van gebergten en vulkanisme. Onder de lithosfeer bevindt zich de langzaam convecterende aardmantel. De stroming in de mantel veroorzaakt de bewegingen van de platen en vulkanisme aan het aardoppervlak. Onder de mantel bevinden zich een vloeibare buitenkern (waarin het aardmagnetisch veld wordt opgewekt) en een vaste binnenkern. Dit magnetisch veld beschermt het leven tegen de zonnewind en kosmische straling.
-
-De Aarde draait om de Zon in dezelfde tijd dat ze 366,26 maal om haar eigen as draait. Deze tijdsduur wordt een siderisch jaar genoemd. Omdat de rotatie van de Aarde om haar as en de baan van de Aarde om de Zon dezelfde richting volgen (vanaf de noordpool gezien tegen de wijzers van de klok in) is de lengte van het jaar in zonnedagen gemeten precies één dag korter, namelijk 365,26 dagen.
-
-De aardas staat in een hoek van 23,439281° met een lijn die loodrecht staat op het vlak waarin de aardbaan ligt, wat de seizoenen veroorzaakt. De Aarde heeft één natuurlijke satelliet, de Maan, die vlak na de vorming van de Aarde moet zijn ontstaan. De zwaartekracht van de Maan veroorzaakt getijden in de oceanen, stabiliseert de hellingshoek van de aardas en doet de rotatiesnelheid van de planeet langzaam afnemen.
+Maak een nieuwe repository online in github met als naam Labo03.
+• Maak via het init commando in bash een nieuwe lokale folder aan met git version
+control. Deze folder krijgt de naam Labo03.
+• Ga via de Console naar de nieuw aangemaakte folder en controleer in je console
+of er wel of niet reeds een remote repository gelinkt is met je lokale repository.
+• Specifieer jouw github repository als remote repository. De exacte url kan je
+terugvinden via de Github website.
+• Maak via het passende console commando een nieuw bestand aan. Geef je
+bestand de naam labo03.md.
+• Maak gebruik van de git commando's add en commit om het aangemaakte
+bestand toe te voegen aan git. Zorg bij je commit voor een passende commit
+message. Indien je twijfelt aan de syntax raadpleeg dan je cursus.
+• Ga naar de Wikipedia pagina van ons Zonnestelsel en kies een planeet naar
+keuze (zie tabel in het midden van de pagina). Op deze pagina kopieer je de eerste
+paragraaf van de tekst en plaats deze met een editor naar keuze in je labo03.md
+bestand.
+• Maak gebruik van de git commando's add en commit om het geüpdatete bestand
+toe te voegen aan git. Zorg bij je commit voor een passende commit message. Indien
+je twijfelt aan de syntax raadpleeg dan je cursus.
+• Zorg ervoor dat je lokale commits gesynchroniseerd worden op de GitHub
+repository Labo03.
+• Maak een screenshot van de gebruikte commando’s
+Pagina 4 van 5
+• Na het voltooien van alle taken editeer je Labo03.md en plaats je een kopie van
+alle bovenstaande tasks op voltooid door de markup te wijzigen van [ ] naar [x]. Geef
+een zinvolle commit message mee als je de wijzigingen commit.
