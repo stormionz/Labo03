@@ -1,0 +1,1 @@
+Neptunus is vanaf de Zon gezien de achtste en verst van de Zon verwijderde planeet van ons zonnestelsel. De planeet is vernoemd naar de Romeinse god van de zee.
